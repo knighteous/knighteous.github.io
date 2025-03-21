@@ -1,5 +1,5 @@
 # gitignore knighteous_local_site - local copy of knighteous.github.io
-knighteous_local_site
+knighteous_local
 
 .DS_Store
 /dist
